@@ -1,3 +1,3 @@
-### React instant search
+# React instant search
 
-# using react, vite, express and node
+## using react, vite, express and node
